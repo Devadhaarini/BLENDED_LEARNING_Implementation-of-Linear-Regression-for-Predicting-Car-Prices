@@ -22,8 +22,8 @@ To write a program to predict car prices using a linear regression model and tes
 ```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: 
-RegisterNumber:
+Developed by: DEVADHAARINI.D
+RegisterNumber: 212223230040
 import pandas as pd
 import numpy as np 
 from sklearn.model_selection import train_test_split
@@ -94,7 +94,9 @@ plt.show()
 ```
 
 ## Output:
+
 ![simple linear regression model for predicting the marks scored](sam.png)
+
 ![image](https://github.com/user-attachments/assets/532f264c-4928-42fb-bc7f-6d5baea8e9d5)
 ![image](https://github.com/user-attachments/assets/59afc934-4522-412a-9441-f3d3f7f18ffd)
 ![image](https://github.com/user-attachments/assets/057732c6-213a-4b46-b17d-1b115bff0236)
